@@ -1,5 +1,3 @@
-### projet-data-mining
-
 **Les principaux résultats de l'analyse fournissent des recommandations pour les futures campagnes marketing :** <br>
 
 - Le solde du compte du client a une influence considérable sur les résultats de la campagne. Les personnes avec un solde de compte supérieur à 1490 $ sont plus susceptibles de souscrire à un dépôt à terme, il faut donc cibler ces clients à l'avenir.<br>
